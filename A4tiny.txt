@@ -1,0 +1,16 @@
+Thornton Hardware Store
+7
+P24-Qaa-1354 "hammer" "Bailey one-piece steel ripping hammer" 6 2
+P24-Qbw-2495 "hammer drill" "Holsinger hammer drill, 8.5A 1/2-in" 7 1
+P33-Qes-4782 "screwdriver" "Bailey 18-piece screwdriver set" 5 2
+P25-Taa-1244 "nail" "Yolen framing nails, 50-count 3-1/4-in 28-degree" 6 20
+P25-Tab-3509 "nail" "Yolen finish nails, 1000-count 18-guage 2-in" 6 9
+P25-Tab-3506 "nail" "Yolen finish nails, 1000-count 16-guage 2-1/2-in" 6 14
+P25-Tac-3672 "nail" "Yolen roofing nails, coil 1-1/4-in" 8 5
+LC "nail"
+LC "plant"
+LP P24-Qbw-2495
+LP P62-Aaa-1387
+S P25-Tab-3506 5
+S P24-Qbw-2495 1
+R P25-Tab-3509 10

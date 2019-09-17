@@ -1,0 +1,72 @@
+Thornton Hardware Store
+33
+P24-Qaa-1354 "hammer" "Bailey one-piece steel ripping hammer" 6 2
+P16-Dbw-2495 "hammer drill" "Holsinger hammer drill, 8.5A 1/2-in" 3 1
+P33-Qes-4782 "screwdriver" "Bailey 18-piece screwdriver set" 5 2
+P25-Taa-1244 "nail" "Yolen framing nails, 50-count 3-1/4-in 28-degree" 6 20
+P25-Tab-3509 "nail" "Yolen finish nails, 1000-count 18-guage 2-in" 6 9
+P25-Tab-3506 "nail" "Yolen finish nails, 1000-count 16-guage 2-1/2-in" 6 14
+P25-Tac-3672 "nail" "Yolen roofing nails, coil 1-1/4-in" 6 5
+P24-Qab-1220 "hammer" "Bailey 16oz anti-vibration hammer" 6 3
+P34-Sdd-1193 "screw" "Yolen wood/drywall finishing screws, 100-count" 5 6
+P34-Srh-4561 "screw" "Yolen deck screws, 6-count 1-5/8-in" 5 10
+P34-Sal-2674 "screw" "Yolen pocket hole screws, 100-count" 5 20
+P15-Rnc-1135 "sandpaper" "Sarno sandpaper, 100-grit 15-count" 1 13
+P15-Rnx-3496 "sandpaper" "Sarno sandpaper, 150-grit 15-count" 1 5
+P15-Rne-1782 "sandpaper" "Sarno sandpaper, 220-grit 15-count" 1 8
+P15-Rbb-5433 "sandpaper" "Sarno sandpaper, aluminum-oxide" 1 7
+P49-Lfa-5033 "wood filler" "Card interior wood filler, tinted" 2 3
+P49-Lfd-5050 "wood filler" "Card wood filler, stick" 2 4
+P49-Lfw-1199 "wood filler" "Card exterior wood filler" 2 16
+P16-Eas-9120 "circular saw" "Holsinger circular saw, 18V" 3 2
+P16-Ebv-3041 "circular saw" "Holsinger circular saw, 20V metal-cutting" 3 1
+P07-Zdv-1547 "hand saw" "Bailey hand saw, 22-in" 4 4
+P07-Zgk-8241 "hand saw" "Bailey drywall hand saw" 4 1
+P07-Zat-0166 "hand saw" "Bailey reversible dovetail saw" 4 2
+P07-Zba-2016 "hand saw" "Bailey coping saw" 4 3
+P07-Zbd-3648 "hand saw" "Bailey PVC saw, 12-in" 4 2
+P17-Ddr-1788 "planer" "Holsinger planer, 6-amp 3-1/4-in" 3 2
+P17-Dfe-1589 "planer" "Holsinger 3-knife planer, 15A 13-in" 3 1
+P17-Dds-1789 "planer blade" "Holsinger planer blades, 3-1/4-in" 3 5
+P11-W45-6117 "hand plane" "Bailey trimming plane" 5 2
+P11-W33-5430 "hand plane" "Bailey adjustable block plane" 5 3
+P11-W45-7817 "hand plane" "Bailey smooth plane" 5 1
+P12-W66-4325 "chisel" "Bailey wood lathe chisel set, 5-pc" 5 2
+P12-W66-1324 "chisel" "Bailey wood chisel set,  8-pc" 5 4
+S P15-Rnc-1135 2
+R P16-Ebv-3041 1
+LC "hammer drill"
+LP P16-Dbw-2495
+LC "nail"
+S P25-Tab-3506 5
+S P24-Qbw-2495 1
+R P25-Tab-3509 10
+R P24-Qbw-2495 2
+LC "hammer"
+R P07-Zgk-8241 2
+S P07-Zgk-8241 1
+R P07-Zgk-8241 3
+R P16-Ebv-3041 4
+LC "hand saw"
+S P25-Tab-3506 14
+R P25-Tab-3506 20
+S P25-Tab-3506 10
+S P34-Srh-4561 10
+LC "chisel"
+S P12-W66-4325 1
+S P33-Qes-4782 1
+S P49-Lfa-5033 1
+S P15-Rnc-1135 5
+R P34-Srh-4561 20
+R P33-Qes-4782 5
+LP P33-Qes-4782
+S P07-Zat-0166 1
+S P15-Rne-1782 5
+R P15-Rne-1782 10
+S P25-Tab-3506 9
+LC "hand plane"
+S P11-W33-5430 1
+LC "planer blade"
+S P17-Dds-1789 2
+R P11-W45-7817 2
+
